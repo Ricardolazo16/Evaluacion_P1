@@ -1,0 +1,7 @@
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\bin\Debug\PruebaPráctica_LazoRicardo.exe.config
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\bin\Debug\PruebaPráctica_LazoRicardo.exe
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\bin\Debug\PruebaPráctica_LazoRicardo.pdb
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\obj\Debug\PruebaPráctica_LazoRicardo.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\obj\Debug\PruebaPráctica_LazoRicardo.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\obj\Debug\PruebaPráctica_LazoRicardo.exe
+C:\Users\ricar\source\repos\PruebaPráctica_LazoRicardo\obj\Debug\PruebaPráctica_LazoRicardo.pdb
